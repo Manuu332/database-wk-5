@@ -1,6 +1,7 @@
 -- Question 1
 ALTER TABLE customers
 DROP INDEX IdxPhone;
+
 -- Question 2
 CREATE USER 'bob'@'localhost' IDENTIFIED BY 'S$cu3r3!';
 
